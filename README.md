@@ -1,2 +1,2 @@
 # TestAutomation
-Purpose is to create sample project 
+Purpose is to create sample project and test in cloud 
